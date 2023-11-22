@@ -1,4 +1,4 @@
-*Samochód:*
+**Samochód:**
  - coś stuka w zawieszeniu z przodu trochę
  - olej z filtrem, już kupione, zostały w samochodzie lub garażu
  - świecą sie dalej klocki czy juz nie bo nie pamietam, czujniki nie działały kiedys poprawnie
@@ -9,7 +9,8 @@
  - skrzynia zaczyna świrować, zdałoby się chociaż zmienić olej/filtr
  - skrzynia, model sprawdzić, 4 tyś. obrotów przy 140 zdaje się ciut dużo
  - odpada poszycie klapy bagażnika
-*Garaż/obora:*
+
+**Garaż/obora:**
  - glify drzwi
  - progi drzwi
  - uszczelki klejone małych drzwi
@@ -21,7 +22,8 @@
  - instalacja
  - skrzynka rozdzielcza, lepiej zamontować
  - zmierzyć wysokość sufitu i sprawdzić czy wejdzie samochód na podnośniku, sprawdzić głębokośc obory
-*Garaż nowy dom:*
+
+**Garaż nowy dom:**
  - tynk wewnątrz
  - ocieplenie na zewnątrz
  - instalacja przed tynkowaniem
@@ -29,23 +31,29 @@
  - wynieść panele do stodoły
  - dokończyć instalację C.O./zlew przed tynkiem
  - odsyfić podjazd
-*Taras:*
+
+**Taras:**
  - pomalować impregnatem, kupiony w piwnicy
-*Szopa:*
- - dokończyć malowanie impregnatem, kupiony w piwnicy
+
+**Szopa:**
+- dokończyć malowanie impregnatem, kupiony w piwnicy
  - przesunąć metal na kłódkę żeby się wygodnie zamykała
-*Parnik:*
+
+**Parnik:**
  - gniazdko/oświetlenie
  - kratka na mousera
-*Kurnik:*
+
+**Kurnik:**
  - gniazdko/oświetlenie
  - wyrównać poziom ziemią
  - zasypać piachem spod domu pod posadzkę
  - posadzka
-*Terex:*
+
+**Terex:**
  - dociągnąć śruby siłowników
  - umyć trzewia
-*Nowy dom:*
+
+**Nowy dom:**
  - zainstalować regulator dmuchawy
  - dokończyć instalację C.O
  - posprzątać pokój z komputerem
@@ -54,18 +62,22 @@
  - naprawić bramkę
  - zawiesić skrzynkę na listy
  - gniazdka wkleić porządnie
-*Stary dom:*
+
+**Stary dom:**
  - dojść z Romualdem do porozumienia gdzie jakie kamery, Amazon Blink?
  - monitorować wilgoć
  - dzwonek wideo?
-*Ogródek:*
+
+**Ogródek:**
  - brama/bramka
  - glebogryzarka
  - ogrodzenie
-*Inne:*
+
+**Inne:**
  - zainstalować panele fotowoltaiczne
  - przycinanie drzew/drzewek/krzewów
- *Traktorek kosiarka:*
+ 
+ **Traktorek kosiarka:**
  - cieknący dekiel zaworów
  - przegląd jeśli jeszcze trzeba
  - plastik przy nożach który odrzuca
