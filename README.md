@@ -86,8 +86,13 @@
 *Zakupy:*
    - Gniazdko hermetyczne
     - https://allegro.pl/oferta/gniazdko-elektryczne-podwojne-2x230v-biale-dymione-13274244934
+    - kupione 13 za 186,81
    - Włącznik światła
     - https://allegro.pl/oferta/wlacznik-swiatla-klatkowy-schodowy-impuls-nt-bialy-13278842235
+    - kupione 2 x dwuklawiszowy za 17,54:
+      https://allegro.pl/oferta/wlacznik-swiatla-dwuklawiszowy-n-t-bialy-13278843080
+    - kupione 2 x schodowy za 21,30
+      https://allegro.pl/oferta/wlacznik-schodowy-wylacznik-swiatla-n-t-popiel-13278839715?fromVariant=13278843080
    - Led automat z szerokim zakresem czujnika
     - https://allegro.pl/oferta/oswietlenie-zewnetrzne-pir-meikee-z-czujnikiem-led-12787358882
    - Przewód
